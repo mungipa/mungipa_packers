@@ -1,0 +1,31 @@
+.modal-header
+{
+	 background-image: linear-gradient(#b21117, #6c0307);
+}
+.modal-header h5
+{
+	color:white;
+}
+
+#exampleModal .modal-dialog {
+    width: 300px !important;
+    margin: 30px auto;
+}
+
+.modal-body .moverspackers-contact-form
+{
+	background-color:white;
+}
+#queryModal .modal-body
+{
+	min-height:450px;
+}
+.moverspackers-counter ul li i
+{
+    color:white !important;
+}
+.vertical-btn
+{
+   
+  transform: rotate(-90deg);
+}
